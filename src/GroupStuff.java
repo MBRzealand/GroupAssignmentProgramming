@@ -4,7 +4,7 @@ public class GroupStuff {
         System.out.println("Mikkel her");
         System.out.println("Mathias");
         System.out.println("Anders Hjordrup Larsen");
-
+        System.out.println("Mike var her!");
     }
 
 
